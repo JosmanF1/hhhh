@@ -130,6 +130,5 @@ def ruleta():
     
     print(f"Saldo final: {saldo} coins")  # Se muestra el saldo final al terminar el juego
 
-# Punto de entrada principal del programa
-if __name__ == "__main__":
+
     ruleta()  # Se ejecuta el juego
